@@ -16,7 +16,6 @@
     "framework"            : "net8.0",
     "function-name"        : "AWSLambdaReceiveFromSQS",
     "package-type"         : "Zip",
-    "function-role"        : "arn:aws:iam::288588419833:role/lambda_exec_AWSLambdaReceiveFromSQS",
     "function-architecture" : "x86_64",
     "function-subnets"      : "",
     "function-security-groups" : "",
